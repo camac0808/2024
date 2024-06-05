@@ -9,55 +9,29 @@
 
 <!--목차-->
 # 목차
-- 06
-  - [Block Chain](#dart-block-chain)
-  - [Technologies](#technologies)
-- [[2] Getting Started](#2-getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Configuration](#configuration)
-- [[3] Usage](#3-usage)
-- [[4] Contribution](#4-contribution)
-- [[5] Acknowledgement](#5-acknowledgement)
-- [[6] Contact](#6-contact)
-- [[7] License](#7-license)
+- 06월
+  - [1. Block Chain Project](#dart-block-chain)
+  - [2. Technologies](#technologies)
 
 <br>
 
-## :dart: Block Chain
+## 1. Block Chain Project
+
+### ⛵ 프로젝트 개요
+> 이것은 프로젝트 개요
+
 ### :rocket: 개발 환경
-```
-React Vite 
-```
+- React
+- Vite 
+- Typescript
 
 ### 👌 설치
 ```
 npm i typescript
 ```
 
-###
+### ⛳ 과정
 
 ### 😡 트러블 슈팅
 
 
-
-
-
-# [1] About the Project
-*다음 내용을 고려하여 프로젝트에 대한 **전반적인 정보**를 적으세요.*
-
-- ❗️짧은❗️ 도입부/제작 동기
-- 무슨 프로젝트인지
-- 왜 이 프로젝트를 사용해야하는지
-
-## Features
-*강조하고 싶은 **주요 기능**이나 **차별성 있는 특징**을 적으세요.*
-- 최고 멋진 **README**를 쉽게 작성할 수 있도록 *이텔릭체*로 된 **가이드**를 제공
-- 뱃지로 **언어 옵션**을 제공
-
-## Technologies
-***언어, 프레임워크, 주요 라이브러리**를 **버전**과 함께 나열하세요.*
-
-- [Maven](https://maven.apache.org/) 3.6.3
-- [MySQL](https://www.mysql.com/) 8.0
-- [Spring](https://spring.io/) 2.4.3
