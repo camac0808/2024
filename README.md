@@ -9,8 +9,8 @@
 
 <!--목차-->
 # 목차
-- [06 Typescript block chain](#06:-Typescript-block-chain)
-  - [Features](#features)
+- 06
+  - [block-chain](#Block-Chain)
   - [Technologies](#technologies)
 - [[2] Getting Started](#2-getting-started)
   - [Prerequisites](#prerequisites)
@@ -24,7 +24,7 @@
 
 <br>
 
-## :dart: 06: Typescript block chain
+## :dart: Block Chain
 ### :rocket: 개발 환경
 ```
 React Vite 
