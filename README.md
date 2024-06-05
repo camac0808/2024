@@ -1,4 +1,4 @@
-# 2024 Project
+# 2024 Project Journal
 <p>
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/camac0808/2024?color=56BEB8">
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/camac0808/2024?color=56BEB8">
