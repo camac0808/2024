@@ -10,12 +10,12 @@
 <!--목차-->
 # 목차
 - 06월
-  - [1. Block Chain Project](#dart-block-chain)
-  - [2. Technologies](#technologies)
+  - [1. Dart Block Chain](#1.-dart-block-chain)
+  - [2. Technologies](#2.-technologies)
 
 <br>
 
-## 1. Block Chain Project
+## 1. Dart Block Chain
 
 ### ⛵ 프로젝트 개요
 > 이것은 프로젝트 개요
@@ -33,5 +33,7 @@ npm i typescript
 ### ⛳ 과정
 
 ### 😡 트러블 슈팅
+
+## 2. Technologies
 
 
