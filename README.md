@@ -5,6 +5,8 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/camac0808/2024?color=56BEB8">
 </p>
 
+<!--프로젝트 대문 이미지-->
+<img src="/project-journal.jpg" alt="Project Journal" width="400" />
 <br>
 
 <!--목차-->
