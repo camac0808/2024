@@ -1,5 +1,5 @@
 # 2024 Project Journal
-<div align="center">
+
   <p>
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/camac0808/2024?color=56BEB8">
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/camac0808/2024?color=56BEB8">
@@ -8,7 +8,7 @@
 
 <!--프로젝트 대문 이미지-->
 <img src="/project-journal.jpg" alt="Project Journal" width="400" />
-</div>
+
 
 <br>
 
