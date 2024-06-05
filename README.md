@@ -10,8 +10,8 @@
 <!--목차-->
 # 목차
 - 06월
-  - [1. Dart Block Chain](#1.-dart-block-chain)
-  - [2. Technologies](#2.-technologies)
+  - [1. Dart Block Chain](#1-dart-block-chain)
+  - [2. Technologies](#2-technologies)
 
 <br>
 
