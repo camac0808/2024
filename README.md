@@ -10,7 +10,7 @@
 <!--목차-->
 # 목차
 - 06
-  - [block-chain](#Block-Chain)
+  - [Block Chain](#dart-block-chain)
   - [Technologies](#technologies)
 - [[2] Getting Started](#2-getting-started)
   - [Prerequisites](#prerequisites)
