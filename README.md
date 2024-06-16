@@ -9,11 +9,12 @@
 <!--프로젝트 대문 이미지-->
 <img src="/project-journal.jpg" alt="Project Journal" width="400" />
 
-
 <br>
 
 <!--목차-->
+
 # 🗓️ 목차
+
 - 06월
   - [1. Dart Block Chain](#1-dart-block-chain)
   - [2. Technologies](#2-technologies)
@@ -23,28 +24,35 @@
 # 1. Dart Block Chain
 
 ### ⛵ 프로젝트 개요
+
 > 이것은 프로젝트 개요
-<br>
+> <br>
 
 ### :rocket: 개발 환경
+
 - React
-- Vite 
+- Vite
 - Typescript
-<br>
+  <br>
 
 ### 👌 설치
+
 ```
 npm create vite@latest
 ```
+
 ```
 npm create vite@latest my-vue-app -- --template react-ts
 ```
+
 ```
 npm install
 ```
+
 <br>
 
 ### 📖 스터디
+
 ```
 - Typescript 프로젝트 적용 전에 간단하게 tsconfig 파일의 구성에 대해 정리
   1) target: ES6 // es6 버전으로 컴파일
@@ -53,20 +61,22 @@ npm install
 
 즉 ES6의 타입과 DOM API를 사용할 수 있게 설정하는 것
 ```
+
 <br>
 
 ### ⛳ 과정
+
 1. 과정 -> 문제해결
 2. 로직 관련 글
 3. 기술 이슈에 대한 고찰
 4. 학습한 내용을 정리
 5. 트러블에 대한 생각
-<br>
+   <br>
+
 ### 😡 트러블 슈팅
+
 1. 트러블 발생 이유와 해결점
 
 <br>
 2. 
 # 2. Technologies
-
-
