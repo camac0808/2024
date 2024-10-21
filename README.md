@@ -15,13 +15,13 @@
 
 # 🗓️ 목차
 
-- 06월
-  - [1. Dart Block Chain](#1-dart-block-chain)
+- 10월
+  - [1. Unity Study - First Project](#1-dart-block-chain)
   - [2. Technologies](#2-technologies)
 
 <br>
 
-# 1. Dart Block Chain
+# 1. Unity Study - First Project
 
 ### ⛵ 프로젝트 개요
 
@@ -30,28 +30,19 @@
 
 ### :rocket: 개발 환경
 
-- React
-- Vite
-- Typescript
+- Unity
+- Vscode
   <br>
 
 ### 👌 설치
 
 ```
-npm create vite@latest
-```
-
-```
-npm create vite@latest my-vue-app -- --template react-ts
-```
-
-```
-npm install
+Unity v6
 ```
 
 <br>
 
-### 📖 스터디
+### 📖 스터디 내용
 
 ```
 - Typescript 프로젝트 적용 전에 간단하게 tsconfig 파일의 구성에 대해 정리
@@ -76,3 +67,4 @@ npm install
 ### 😡 트러블 슈팅
 
 1. 트러블 발생 이유와 해결점
+github에 유니티 프로젝트를 올리기 위해서는 Unity.gitignore를 루트 프로젝트에 생성해야 올라간다. (안그러면 100mb 용량 초과 오류메세지) (https://github.com/github/gitignore/blob/main)
