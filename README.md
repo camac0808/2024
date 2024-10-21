@@ -67,4 +67,7 @@ Unity v6
 ### 😡 트러블 슈팅
 
 1. 트러블 발생 이유와 해결점
-github에 유니티 프로젝트를 올리기 위해서는 Unity.gitignore를 루트 프로젝트에 생성해야 올라간다. (안그러면 100mb 용량 초과 오류메세지) (https://github.com/github/gitignore/blob/main)
+<br>
+a. Github에 새로운 리포지토리를 생성 후 유니티 프로젝트를 push할려고 했으나 용량 초과 오류 발생
+<br> 
+해결) github에 유니티 프로젝트를 올리기 위해서는 Unity.gitignore를 루트 프로젝트에 생성해야 올라간다. (안그러면 100mb 용량 초과 오류메세지) (https://github.com/github/gitignore/blob/main)
