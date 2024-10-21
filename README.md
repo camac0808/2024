@@ -1,4 +1,4 @@
-# 2024 Project Journal
+# Unity Project Journal
 
   <p>
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/camac0808/2024?color=56BEB8">
@@ -76,7 +76,3 @@ npm install
 ### 😡 트러블 슈팅
 
 1. 트러블 발생 이유와 해결점
-
-<br>
-2. 
-# 2. Technologies
