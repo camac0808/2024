@@ -45,12 +45,7 @@ Unity v6
 ### 📖 스터디 내용
 
 ```
-- Typescript 프로젝트 적용 전에 간단하게 tsconfig 파일의 구성에 대해 정리
-  1) target: ES6 // es6 버전으로 컴파일
-  2) lib: ES6, DOM, DOM.Iterable // 코드를 어디서 실행할지 또는 declaration files 지정 (내장 API와 전역변수 범위를 설정하는거다)
-   -> declaration files이란?: typescript가 d.ts파일들을 참조하여 코드 타입을 검사
-
-즉 ES6의 타입과 DOM API를 사용할 수 있게 설정하는 것
+- update transform.rotate(0 0 0.1f)
 ```
 
 <br>
